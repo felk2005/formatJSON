@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>559F3CB0-B42D-4E72-8C37-3D1B537513BB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>formatJSON</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>26FED3AC4936D49C1D786AB18D795DC9186C04E0</key>
+		<string>https://github.com/frank-yuan/formatJSON.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>formatJSON.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>26FED3AC4936D49C1D786AB18D795DC9186C04E0</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/frank-yuan/formatJSON.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>26FED3AC4936D49C1D786AB18D795DC9186C04E0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>26FED3AC4936D49C1D786AB18D795DC9186C04E0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>formatJSON</string>
+		</dict>
+	</array>
+</dict>
+</plist>
